@@ -10,8 +10,10 @@ Machine learning clinical decision support system predicting heart disease risk.
 Technologies:
 Python, Scikit-learn, Pandas, Streamlit
 
-Model Performance:
-87.5% prediction accuracy
+Model Performance:  
+
+87.5% prediction accuracy  
+
 81.7% cross-validation accuracy
 
 ### Package Delivery Routing System
