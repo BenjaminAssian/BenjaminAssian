@@ -1,16 +1,31 @@
-## Hi there 👋
+# Benjamin Assian
 
-<!--
-**BenjaminAssian/BenjaminAssian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with experience in machine learning, data analysis, and full-stack development.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cardiovascular Risk Prediction System
+Machine learning clinical decision support system predicting heart disease risk.
+
+Technologies:
+Python, Scikit-learn, Pandas, Streamlit
+
+Model Performance:
+87.5% prediction accuracy
+81.7% cross-validation accuracy
+
+### Package Delivery Routing System
+Route optimization program using the nearest neighbor algorithm.
+
+Technologies:
+Python, PostgreSQL
+
+### Spotify Web Application Clone
+Full-stack music streaming clone with authentication and subscription functionality.
+
+Technologies:
+Next.js, JavaScript, Supabase, Stripe API
+
+## Skills
+
+Python • SQL • JavaScript • Machine Learning • Data Analysis • Web Development
